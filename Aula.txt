@@ -1,3 +1,4 @@
 Aula:
 praticando o commit e o git.
 Para pull é feito no cmd git2
+oi eu
