@@ -1,0 +1,5 @@
+Olá sou a vitória e estou a praticar o git CMD ;)
+1- Criar o documento
+2- Fiz commit
+3- Guardei localmente
+4- Push para o remoto
