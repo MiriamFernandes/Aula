@@ -4,3 +4,4 @@ Olá sou a vitória e estou a praticar o git CMD ;)
 3- Guardei localmente
 4- Pull documento
 5- Push para o remoto
+ versao-2
